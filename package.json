@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
- "startDev ":" nodemon src/app.js"
+ "startDev ":" nodemon views/index.hbs"
   },
   "author": "",
   "license": "ISC",
