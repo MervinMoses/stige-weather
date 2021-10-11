@@ -38,7 +38,7 @@ h2 {
   flex-wrap: wrap;
   cursor: pointer;
   border-radius: 20px;
-  box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 27px 55px 0 rgba(161, 16, 16, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
 }
 
 .weatherLocation{
@@ -51,7 +51,7 @@ h2 {
 }
 
 .weatherLocation button{
-  background: #080705;
+  background: #d39f37;
   color:#fff;
   border: 1px solid transparent;
 }
@@ -81,7 +81,7 @@ h2 {
   border-bottom-left-radius: 20px;
   display: flex;
   align-items: center;
-  color: white;
+  color: rgb(192, 51, 51);
 }
 .widget .weatherInfo .temperature {
   flex: 0 0 40%;
@@ -109,7 +109,7 @@ h2 {
 .widget .date {
   flex: 0 0 30%;
   height: 40%;
-  background: rgb(68, 112, 207);
+  background: rgb(11, 34, 85);
   border-bottom-right-radius: 20px;
   display: flex;
   justify-content: space-around;
