@@ -2,9 +2,9 @@
   "name": "weatherapp",
   "version": "1.0.0",
   "description": "",
-  "main": "views/index.hbs",
+  "main": "src/app.js",
   "scripts": {
- "startDev ":" nodemon views/index.hbs"
+ "startDev ":" nodemon src/app.js"
   },
   "author": "",
   "license": "ISC",
